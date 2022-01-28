@@ -25,6 +25,8 @@ function App() {
         <h3>This is a subtitle...</h3>
         <h3>This is a subtitle...</h3>
         <h3>This is a subtitle...</h3>
+        <h3>This is a subtitle...</h3>
+        <h3>This is a subtitle...</h3>
 
         <a
           className="App-link"
