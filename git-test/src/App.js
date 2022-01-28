@@ -20,6 +20,11 @@ function App() {
         <p>Cambios de lucassssss</p>
         <p>Cambios de lucassssss</p>
         <h3>This is a subtitle...</h3>
+        <h3>This is a subtitle...</h3>
+        <h3>This is a subtitle...</h3>
+        <h3>This is a subtitle...</h3>
+        <h3>This is a subtitle...</h3>
+        <h3>This is a subtitle...</h3>
 
         <a
           className="App-link"
