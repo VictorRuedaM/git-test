@@ -14,12 +14,7 @@ function App() {
         <h2>Buyme App</h2>
         <h3>This is a subtitle...</h3>
 
-        <p>jdfosdfjsdfjsldfjsofjsfisjfisfosfjsifjso</p>
-        <p>dkfjsdkfjsdofisjfwijiow</p>
-        <p>ieowruwioeurweoiruwejrweoirweo</p>
-
-        <h3>jfksdjfkfjkfjsklj</h3>
-        <p>jfdkfjdskfjdskfjdsklfjdskfjdlfjs</p>
+        
         <a
           className="App-link"
           href="https://reactjs.org"
